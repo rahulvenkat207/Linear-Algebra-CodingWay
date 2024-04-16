@@ -1,1 +1,13 @@
 
+About Eigenvalues and Eigenvectors
+Overview
+Eigenvalues and eigenvectors are fundamental concepts in linear algebra with wide applications in various fields. They are used to understand the behavior of linear transformations and systems of linear equations.
+
+
+Eigenvalues
+Eigenvalues are scalar values that represent the scaling factor by which eigenvectors are stretched or compressed when transformed by a matrix. They provide valuable insights into the properties of linear transformations, such as stretching, rotating, or scaling.
+
+Eigenvectors
+Eigenvectors are non-zero vectors that are transformed by a matrix only by a scalar factor, known as the corresponding eigenvalue. They represent the directions along which the linear transformation has the simplest behavior.
+
+Eigenvectors corresponding to distinct eigenvalues are linearly independent and form a basis for the vector space. They play a crucial role in diagonalizing matrices and solving systems of linear differential equations.
